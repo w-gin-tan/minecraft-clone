@@ -1,0 +1,16 @@
+- [x] Boilerplate
+- [x] Sky
+- [x] Textures and images
+- [x] Ground
+- [x] Keyboard inputs
+- [X] Player
+- [x] First person view
+- [x] Gravity
+- [x] Movement
+- [x] State management
+- [x] Cubes
+- [x] Adding cubes / removing cubes
+- [x] Cube type selector
+- [x] Save world in localstorage
+- [] Hover state on cubes
+- [] Build a house
